@@ -6,4 +6,4 @@ function hasValuesFromArray(set, array) {
   }
   return true;
 }
-export default hasValuesFromArray
+export default hasValuesFromArray;
